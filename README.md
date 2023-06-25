@@ -1,2 +1,2 @@
-Student passionate about Frontend Development and new Web Design technologies
+Student passionate about Frontend Development and new Web Design technologies.
 ____________________________________________________________________________________
