@@ -17,6 +17,6 @@
 
 <hr>
 
-<img alt="Johnatan Stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=johnatanvq&show_icons=true"> 
+<img alt="Johnatan Stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=johnatanvq&show_icons=true"> 
 
-<img alt="Johnatan Top Langs" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanvq&show_icons=true"/>
+<img alt="Johnatan Top Langs" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanvq&show_icons=true"/>
