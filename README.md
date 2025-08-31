@@ -9,8 +9,10 @@
 **♦ Brilworx:** <br/>
   ► Try it here: [Brilworx - site](https://johnatanvq.github.io/Brilworx-WebPage/) <br/>
   ► Source code: [Brilworx - Repo](https://github.com/Johnatanvq/Brilworx-WebPage)
-
-<img width="560" height="800" alt="brilworx_mockup" src="https://github.com/user-attachments/assets/3042707a-0991-460f-a817-32e641b5567a" />
+  
+<div align="center">
+  <img width="560" height="800" alt="brilworx_mockup" src="https://github.com/user-attachments/assets/3042707a-0991-460f-a817-32e641b5567a" />
+</div>
 
 <hr>
 
