@@ -12,7 +12,7 @@
   ► Source code: [Brilworx - Repo](https://github.com/Johnatanvq/Brilworx-WebPage)
   
 <div align="center">
-  <img width="560" height="800" alt="brilworx_mockup" src="https://github.com/user-attachments/assets/3042707a-0991-460f-a817-32e641b5567a" />
+  <img width="560" height="800"  alt="Brilworx Mockup" src="https://github.com/Johnatanvq/Brilworx-WebPage/blob/master/assets/brilworx_mockup.png?raw=true">
 </div>
 
 <hr>
