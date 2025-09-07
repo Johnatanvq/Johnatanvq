@@ -7,9 +7,9 @@
 
 **♦ fruit detection YOLO model:** <br/>
 
-  - Source code: [Fruits Detection Model - Repo](https://github.com/Johnatanvq/fruits_detection_model) <br/>
   - Dataset: [Fruits Dataset – Hugging Face](https://huggingface.co/datasets/johnatanvq/fruits-dataset) <br/>
   - Models: [Fruits YOLOv11 – Hugging Face](https://huggingface.co/johnatanvq/fruits-yolo-model) <br/>
+  - Source code: [Fruits Detection Model - Repo](https://github.com/Johnatanvq/fruits_detection_model) <br/>
 
 
 <div align="center">
