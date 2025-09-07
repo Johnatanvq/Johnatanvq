@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://github.com/Johnatanvq/expense_tracker_app/blob/master/assets/expense_video_mockup.gif?raw=true" 
-       alt="Expense Tracker Demo" width="60%" />
+       alt="Expense Tracker Demo" width="560" />
 </div>
 
 
