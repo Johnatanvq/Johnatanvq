@@ -6,6 +6,16 @@
 ## **Project Samples:**
 <hr>
 
+**♦ Expense Tracker App:** <br/>
+  ► Try it here: [Expense Tracker App - Webview](https://johnatanvq.github.io/expense_tracker_app/) <br/>
+  ► Source code: [Expense Tracker App - Repo](https://github.com/Johnatanvq/expense_tracker_app)
+
+<div align="center">
+  <img src="https://github.com/Johnatanvq/expense_tracker_app/blob/master/assets/expense_video_mockup.gif?raw=true" 
+       alt="Expense Tracker Demo" width="60%" />
+</div>
+
+
 **♦ Brilworx:** <br/>
 
   ► Try it here: [Brilworx - site](https://johnatanvq.github.io/Brilworx-WebPage/) <br/>
