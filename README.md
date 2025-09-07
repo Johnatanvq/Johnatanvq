@@ -7,9 +7,9 @@
 
 **♦ fruit detection YOLO model:** <br/>
 
-  - Dataset: [Fruits Dataset – Hugging Face](https://huggingface.co/datasets/johnatanvq/fruits-dataset) <br/>
-  - Models: [Fruits YOLOv11 – Hugging Face](https://huggingface.co/johnatanvq/fruits-yolo-model) <br/>
-  - Source code: [Fruits Detection Model - Repo](https://github.com/Johnatanvq/fruits_detection_model) <br/>
+  - Dataset: [Fruits Detection Model – dataset](https://huggingface.co/datasets/johnatanvq/fruits-dataset) <br/>
+  - Models: [Fruits Detection Model – models](https://huggingface.co/johnatanvq/fruits-yolo-model) <br/>
+  - Source code: [Fruits Detection Model - repository](https://github.com/Johnatanvq/fruits_detection_model) <br/>
 
 
 <div align="center">
@@ -19,8 +19,8 @@
 <br/><br/>
 
 **♦ Expense Tracker App:** <br/>
-  - Try it here: [Expense Tracker App - Webview](https://johnatanvq.github.io/expense_tracker_app/) <br/>
-  - Source code: [Expense Tracker App - Repo](https://github.com/Johnatanvq/expense_tracker_app)
+  - Try it here: [Expense Tracker App - webview](https://johnatanvq.github.io/expense_tracker_app/) <br/>
+  - Source code: [Expense Tracker App - repository](https://github.com/Johnatanvq/expense_tracker_app)
 
 
 <div align="center">
@@ -32,7 +32,7 @@
 **♦ Brilworx:** <br/>
 
   - Try it here: [Brilworx - site](https://johnatanvq.github.io/Brilworx-WebPage/) <br/>
-  - Source code: [Brilworx - Repo](https://github.com/Johnatanvq/Brilworx-WebPage)
+  - Source code: [Brilworx - repository](https://github.com/Johnatanvq/Brilworx-WebPage)
 
 
 <div align="center">
