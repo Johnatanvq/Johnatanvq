@@ -1,6 +1,6 @@
 # **Johnatan Valencia**
 
-*Frontend developer passionate about modern web development, cutting-edge design technologies, and AI stuff.*
+*Passionate about modern web development, cutting-edge design technologies, and AI stuff.*
 
 
 ## **Project Samples:**
