@@ -5,7 +5,7 @@
 
 ## **Project Samples:**
 
-**♦ fruit detection YOLO model:** <br/>
+**♦ fruit detection model:** <br/>
 
   - Dataset: [Fruits Detection Model – dataset](https://huggingface.co/datasets/johnatanvq/fruits-dataset) <br/>
   - Models: [Fruits Detection Model – models](https://huggingface.co/johnatanvq/fruits-yolo-model) <br/>
